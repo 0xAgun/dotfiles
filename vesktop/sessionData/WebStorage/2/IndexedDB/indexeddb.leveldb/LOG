@@ -1,0 +1,6 @@
+2025/04/04-20:43:17.449 5ad Creating DB /home/agun/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2025/04/04-20:43:17.452 5ad Reusing MANIFEST /home/agun/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/04-21:25:56.338 5ad Level-0 table #5: started
+2025/04/04-21:25:56.339 5ad Level-0 table #5: 8069 bytes OK
+2025/04/04-21:25:56.341 5ad Delete type=0 #3
+2025/04/04-21:25:56.341 5ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

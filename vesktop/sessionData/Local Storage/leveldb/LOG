@@ -1,0 +1,6 @@
+2025/04/08-18:45:48.648 59d Reusing MANIFEST /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/04/08-18:45:48.665 59d Recovering log #51
+2025/04/08-18:45:48.667 59d Reusing old log /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/000051.log 
+2025/04/08-19:00:55.985 59e Level-0 table #56: started
+2025/04/08-19:00:55.987 59e Level-0 table #56: 49222 bytes OK
+2025/04/08-19:00:55.989 59e Delete type=0 #51
