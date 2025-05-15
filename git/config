@@ -51,7 +51,7 @@
   rebase = false
 
 [commit]
-  gpgsign = true
+	gpgsign = true
 
 [gpg]
   program = /sbin/gpg
@@ -259,3 +259,7 @@
   subrepo = !sh -c 'git filter-branch --prune-empty --subdirectory-filter $1 master' -
   human = name-rev --name-only --refs=refs/heads/*
   ig = "!f() { gitignore \"$@\"; }; f"
+[user]
+	email = islamtahsan0@gmail.com
+	name = 0xAgun
+	signingkey = D68FB69EC80495A0

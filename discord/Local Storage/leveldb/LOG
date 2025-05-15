@@ -1,0 +1,43 @@
+2025/05/13-22:58:10.315 1258b Reusing MANIFEST /home/agun/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/13-22:58:10.327 1258b Recovering log #61
+2025/05/13-22:58:10.328 1258b Reusing old log /home/agun/.config/discord/Local Storage/leveldb/000061.log 
+2025/05/13-22:59:17.246 1258c Level-0 table #65: started
+2025/05/13-22:59:17.247 1258c Level-0 table #65: 43312 bytes OK
+2025/05/13-22:59:17.249 1258c Delete type=0 #61
+2025/05/13-22:59:17.249 1258c Compacting 4@0 + 2@1 files
+2025/05/13-22:59:17.266 1258c Generated table #66@0: 14 keys, 2531012 bytes
+2025/05/13-22:59:17.286 1258c Generated table #67@0: 93 keys, 3577022 bytes
+2025/05/13-22:59:17.286 1258c Compacted 4@0 + 2@1 files => 6108034 bytes
+2025/05/13-22:59:17.287 1258c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/13-22:59:17.287 1258c Delete type=2 #54
+2025/05/13-22:59:17.287 1258c Delete type=2 #60
+2025/05/13-22:59:17.287 1258c Delete type=2 #55
+2025/05/13-22:59:17.287 1258c Delete type=2 #57
+2025/05/13-22:59:17.287 1258c Delete type=2 #62
+2025/05/13-22:59:17.287 1258c Delete type=2 #65
+2025/05/13-23:03:13.365 1258c Level-0 table #69: started
+2025/05/13-23:03:13.382 1258c Level-0 table #69: 3564002 bytes OK
+2025/05/13-23:03:13.384 1258c Delete type=0 #64
+2025/05/13-23:48:17.240 1258c Level-0 table #71: started
+2025/05/13-23:48:17.241 1258c Level-0 table #71: 12727 bytes OK
+2025/05/13-23:48:17.243 1258c Delete type=0 #68
+2025/05/14-00:20:17.240 1258c Level-0 table #73: started
+2025/05/14-00:20:17.241 1258c Level-0 table #73: 23558 bytes OK
+2025/05/14-00:20:17.243 1258c Delete type=0 #70
+2025/05/14-00:42:17.241 1258c Level-0 table #75: started
+2025/05/14-00:42:17.242 1258c Level-0 table #75: 29669 bytes OK
+2025/05/14-00:42:17.243 1258c Delete type=0 #72
+2025/05/14-00:42:17.243 1258c Compacting 4@0 + 2@1 files
+2025/05/14-00:42:17.258 1258c Generated table #76@0: 14 keys, 2532266 bytes
+2025/05/14-00:42:17.281 1258c Generated table #77@0: 94 keys, 3579941 bytes
+2025/05/14-00:42:17.281 1258c Compacted 4@0 + 2@1 files => 6112207 bytes
+2025/05/14-00:42:17.282 1258c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/14-00:42:17.282 1258c Delete type=2 #69
+2025/05/14-00:42:17.282 1258c Delete type=2 #73
+2025/05/14-00:42:17.283 1258c Delete type=2 #66
+2025/05/14-00:42:17.283 1258c Delete type=2 #67
+2025/05/14-00:42:17.283 1258c Delete type=2 #75
+2025/05/14-00:42:17.283 1258c Delete type=2 #71
+2025/05/14-01:23:17.240 1258b Level-0 table #79: started
+2025/05/14-01:23:17.242 1258b Level-0 table #79: 14603 bytes OK
+2025/05/14-01:23:17.243 1258b Delete type=0 #74

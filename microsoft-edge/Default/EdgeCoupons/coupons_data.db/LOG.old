@@ -1,0 +1,5 @@
+2025/04/11-06:21:09.421 963a Creating DB /home/agun/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db since it was missing.
+2025/04/11-06:21:09.425 963a Reusing MANIFEST /home/agun/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/11-06:21:38.229 963a Level-0 table #5: started
+2025/04/11-06:21:38.231 963a Level-0 table #5: 670717 bytes OK
+2025/04/11-06:21:38.232 963a Delete type=0 #3

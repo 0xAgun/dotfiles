@@ -1,6 +1,21 @@
-2025/04/08-18:45:48.648 59d Reusing MANIFEST /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/04/08-18:45:48.665 59d Recovering log #51
-2025/04/08-18:45:48.667 59d Reusing old log /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/000051.log 
-2025/04/08-19:00:55.985 59e Level-0 table #56: started
-2025/04/08-19:00:55.987 59e Level-0 table #56: 49222 bytes OK
-2025/04/08-19:00:55.989 59e Delete type=0 #51
+2025/04/28-22:45:11.491 5d1 Reusing MANIFEST /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/04/28-22:45:11.507 5d1 Recovering log #244
+2025/04/28-22:45:11.508 5d1 Reusing old log /home/agun/.config/vesktop/sessionData/Local Storage/leveldb/000244.log 
+2025/04/28-22:47:12.275 5d2 Level-0 table #247: started
+2025/04/28-22:47:12.276 5d2 Level-0 table #247: 51822 bytes OK
+2025/04/28-22:47:12.277 5d2 Delete type=0 #244
+2025/04/28-23:10:12.275 5d2 Level-0 table #249: started
+2025/04/28-23:10:12.277 5d2 Level-0 table #249: 34271 bytes OK
+2025/04/28-23:10:12.278 5d2 Delete type=0 #246
+2025/04/28-23:32:08.209 5d2 Level-0 table #251: started
+2025/04/28-23:32:08.211 5d2 Level-0 table #251: 31295 bytes OK
+2025/04/28-23:32:08.212 5d2 Delete type=0 #248
+2025/04/28-23:32:08.212 5d2 Compacting 4@0 + 1@1 files
+2025/04/28-23:32:08.213 5d2 Generated table #252@0: 106 keys, 45824 bytes
+2025/04/28-23:32:08.213 5d2 Compacted 4@0 + 1@1 files => 45824 bytes
+2025/04/28-23:32:08.214 5d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/28-23:32:08.215 5d2 Delete type=2 #247
+2025/04/28-23:32:08.215 5d2 Delete type=2 #251
+2025/04/28-23:32:08.215 5d2 Delete type=2 #243
+2025/04/28-23:32:08.215 5d2 Delete type=2 #241
+2025/04/28-23:32:08.215 5d2 Delete type=2 #249
