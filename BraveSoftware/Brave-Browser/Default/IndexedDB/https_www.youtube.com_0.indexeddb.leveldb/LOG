@@ -1,0 +1,32 @@
+2025/05/21-23:35:49.871 177ce Creating DB /home/agun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2025/05/21-23:35:49.874 177ce Reusing MANIFEST /home/agun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/22-00:06:41.746 177ce Level-0 table #5: started
+2025/05/22-00:06:41.752 177ce Level-0 table #5: 1182460 bytes OK
+2025/05/22-00:06:41.753 177ce Delete type=0 #3
+2025/05/22-00:41:13.725 177ce Level-0 table #7: started
+2025/05/22-00:41:13.731 177ce Level-0 table #7: 1117676 bytes OK
+2025/05/22-00:41:13.732 177ce Delete type=0 #4
+2025/05/22-00:46:49.730 177cd Compacting 1@1 + 1@2 files
+2025/05/22-00:46:49.734 177cd Generated table #8@1: 336 keys, 57857 bytes
+2025/05/22-00:46:49.734 177cd Compacted 1@1 + 1@2 files => 57857 bytes
+2025/05/22-00:46:49.735 177cd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-00:46:49.735 177cd Delete type=2 #5
+2025/05/22-00:46:49.735 177cd Delete type=2 #7
+2025/05/22-01:06:54.736 177ce Level-0 table #10: started
+2025/05/22-01:06:54.742 177ce Level-0 table #10: 1236076 bytes OK
+2025/05/22-01:06:54.744 177ce Delete type=0 #6
+2025/05/22-01:13:09.325 177ce Compacting 1@1 + 1@2 files
+2025/05/22-01:13:09.328 177ce Generated table #11@1: 330 keys, 84617 bytes
+2025/05/22-01:13:09.328 177ce Compacted 1@1 + 1@2 files => 84617 bytes
+2025/05/22-01:13:09.330 177ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-01:13:09.330 177ce Delete type=2 #10
+2025/05/22-01:13:09.330 177ce Delete type=2 #8
+2025/05/22-02:05:20.489 177cd Level-0 table #13: started
+2025/05/22-02:05:20.496 177cd Level-0 table #13: 1526010 bytes OK
+2025/05/22-02:05:20.497 177cd Delete type=0 #9
+2025/05/22-02:08:46.843 177cd Compacting 1@1 + 1@2 files
+2025/05/22-02:08:46.846 177cd Generated table #14@1: 354 keys, 63248 bytes
+2025/05/22-02:08:46.846 177cd Compacted 1@1 + 1@2 files => 63248 bytes
+2025/05/22-02:08:46.847 177cd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-02:08:46.848 177cd Delete type=2 #13
+2025/05/22-02:08:46.848 177cd Delete type=2 #11

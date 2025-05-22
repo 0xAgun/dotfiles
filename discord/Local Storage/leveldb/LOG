@@ -1,43 +1,28 @@
-2025/05/13-22:58:10.315 1258b Reusing MANIFEST /home/agun/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/05/13-22:58:10.327 1258b Recovering log #61
-2025/05/13-22:58:10.328 1258b Reusing old log /home/agun/.config/discord/Local Storage/leveldb/000061.log 
-2025/05/13-22:59:17.246 1258c Level-0 table #65: started
-2025/05/13-22:59:17.247 1258c Level-0 table #65: 43312 bytes OK
-2025/05/13-22:59:17.249 1258c Delete type=0 #61
-2025/05/13-22:59:17.249 1258c Compacting 4@0 + 2@1 files
-2025/05/13-22:59:17.266 1258c Generated table #66@0: 14 keys, 2531012 bytes
-2025/05/13-22:59:17.286 1258c Generated table #67@0: 93 keys, 3577022 bytes
-2025/05/13-22:59:17.286 1258c Compacted 4@0 + 2@1 files => 6108034 bytes
-2025/05/13-22:59:17.287 1258c compacted to: files[ 0 3 1 0 0 0 0 ]
-2025/05/13-22:59:17.287 1258c Delete type=2 #54
-2025/05/13-22:59:17.287 1258c Delete type=2 #60
-2025/05/13-22:59:17.287 1258c Delete type=2 #55
-2025/05/13-22:59:17.287 1258c Delete type=2 #57
-2025/05/13-22:59:17.287 1258c Delete type=2 #62
-2025/05/13-22:59:17.287 1258c Delete type=2 #65
-2025/05/13-23:03:13.365 1258c Level-0 table #69: started
-2025/05/13-23:03:13.382 1258c Level-0 table #69: 3564002 bytes OK
-2025/05/13-23:03:13.384 1258c Delete type=0 #64
-2025/05/13-23:48:17.240 1258c Level-0 table #71: started
-2025/05/13-23:48:17.241 1258c Level-0 table #71: 12727 bytes OK
-2025/05/13-23:48:17.243 1258c Delete type=0 #68
-2025/05/14-00:20:17.240 1258c Level-0 table #73: started
-2025/05/14-00:20:17.241 1258c Level-0 table #73: 23558 bytes OK
-2025/05/14-00:20:17.243 1258c Delete type=0 #70
-2025/05/14-00:42:17.241 1258c Level-0 table #75: started
-2025/05/14-00:42:17.242 1258c Level-0 table #75: 29669 bytes OK
-2025/05/14-00:42:17.243 1258c Delete type=0 #72
-2025/05/14-00:42:17.243 1258c Compacting 4@0 + 2@1 files
-2025/05/14-00:42:17.258 1258c Generated table #76@0: 14 keys, 2532266 bytes
-2025/05/14-00:42:17.281 1258c Generated table #77@0: 94 keys, 3579941 bytes
-2025/05/14-00:42:17.281 1258c Compacted 4@0 + 2@1 files => 6112207 bytes
-2025/05/14-00:42:17.282 1258c compacted to: files[ 0 3 1 0 0 0 0 ]
-2025/05/14-00:42:17.282 1258c Delete type=2 #69
-2025/05/14-00:42:17.282 1258c Delete type=2 #73
-2025/05/14-00:42:17.283 1258c Delete type=2 #66
-2025/05/14-00:42:17.283 1258c Delete type=2 #67
-2025/05/14-00:42:17.283 1258c Delete type=2 #75
-2025/05/14-00:42:17.283 1258c Delete type=2 #71
-2025/05/14-01:23:17.240 1258b Level-0 table #79: started
-2025/05/14-01:23:17.242 1258b Level-0 table #79: 14603 bytes OK
-2025/05/14-01:23:17.243 1258b Delete type=0 #74
+2025/05/23-06:11:30.434 736 Reusing MANIFEST /home/agun/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/23-06:11:30.447 736 Recovering log #118
+2025/05/23-06:11:30.448 736 Level-0 table #124: started
+2025/05/23-06:11:30.456 736 Level-0 table #124: 41330 bytes OK
+2025/05/23-06:11:30.467 736 Delete type=0 #118
+2025/05/23-00:16:42.251 737 Level-0 table #127: started
+2025/05/23-00:16:42.274 737 Level-0 table #127: 1038072 bytes OK
+2025/05/23-00:16:42.284 737 Delete type=0 #125
+2025/05/23-00:38:34.007 737 Level-0 table #129: started
+2025/05/23-00:38:34.009 737 Level-0 table #129: 43481 bytes OK
+2025/05/23-00:38:34.010 737 Delete type=0 #126
+2025/05/23-01:12:34.008 737 Level-0 table #131: started
+2025/05/23-01:12:34.009 737 Level-0 table #131: 15290 bytes OK
+2025/05/23-01:12:34.010 737 Delete type=0 #128
+2025/05/23-01:12:34.010 737 Compacting 4@0 + 2@1 files
+2025/05/23-01:12:34.025 737 Generated table #132@0: 18 keys, 2532462 bytes
+2025/05/23-01:12:34.045 737 Generated table #133@0: 96 keys, 3585587 bytes
+2025/05/23-01:12:34.045 737 Compacted 4@0 + 2@1 files => 6118049 bytes
+2025/05/23-01:12:34.047 737 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/23-01:12:34.047 737 Delete type=2 #127
+2025/05/23-01:12:34.047 737 Delete type=2 #121
+2025/05/23-01:12:34.047 737 Delete type=2 #124
+2025/05/23-01:12:34.047 737 Delete type=2 #120
+2025/05/23-01:12:34.047 737 Delete type=2 #129
+2025/05/23-01:12:34.047 737 Delete type=2 #131
+2025/05/23-02:23:50.249 737 Level-0 table #135: started
+2025/05/23-02:23:50.250 737 Level-0 table #135: 30317 bytes OK
+2025/05/23-02:23:50.251 737 Delete type=0 #130

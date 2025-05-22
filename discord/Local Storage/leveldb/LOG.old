@@ -1,9 +1,22 @@
-2025/05/07-23:37:58.362 35b4 Reusing MANIFEST /home/agun/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/05/07-23:37:58.374 35b4 Recovering log #56
-2025/05/07-23:37:58.374 35b4 Reusing old log /home/agun/.config/discord/Local Storage/leveldb/000056.log 
-2025/05/07-23:41:26.458 35b5 Level-0 table #60: started
-2025/05/07-23:41:26.467 35b5 Level-0 table #60: 1061960 bytes OK
-2025/05/07-23:41:26.469 35b5 Delete type=0 #56
-2025/05/08-00:14:59.388 35b5 Level-0 table #62: started
-2025/05/08-00:14:59.389 35b5 Level-0 table #62: 16462 bytes OK
-2025/05/08-00:14:59.390 35b5 Delete type=0 #59
+2025/05/22-00:14:18.526 1e5e9 Reusing MANIFEST /home/agun/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/22-00:14:18.530 1e5e9 Recovering log #113
+2025/05/22-00:14:18.530 1e5e9 Reusing old log /home/agun/.config/discord/Local Storage/leveldb/000113.log 
+2025/05/22-00:15:41.636 1e5ea Level-0 table #117: started
+2025/05/22-00:15:41.638 1e5ea Level-0 table #117: 52014 bytes OK
+2025/05/22-00:15:41.639 1e5ea Delete type=0 #113
+2025/05/22-00:18:11.491 1e5ea Level-0 table #119: started
+2025/05/22-00:18:11.501 1e5ea Level-0 table #119: 1035462 bytes OK
+2025/05/22-00:18:11.504 1e5ea Delete type=0 #116
+2025/05/22-00:18:11.505 1e5ea Compacting 4@0 + 3@1 files
+2025/05/22-00:18:11.520 1e5ea Generated table #120@0: 18 keys, 2532463 bytes
+2025/05/22-00:18:11.541 1e5ea Generated table #121@0: 96 keys, 3584505 bytes
+2025/05/22-00:18:11.542 1e5ea Generated table #122@0: 22 keys, 21838 bytes
+2025/05/22-00:18:11.542 1e5ea Compacted 4@0 + 3@1 files => 6138806 bytes
+2025/05/22-00:18:11.543 1e5ea compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #109
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #108
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #110
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #112
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #117
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #114
+2025/05/22-00:18:11.544 1e5ea Delete type=2 #119
