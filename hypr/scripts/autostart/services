@@ -36,3 +36,6 @@ wl-paste --watch cliphist store &
 
 # Audio
 easyeffects --gapplication-service &
+
+# push to talk
+ptt-fix &
